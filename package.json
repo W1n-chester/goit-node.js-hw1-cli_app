@@ -1,0 +1,28 @@
+{
+  "name": "goit-node.js-hw1-cli_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W1n-chester/goit-node.js-hw1-cli_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/W1n-chester/goit-node.js-hw1-cli_app/issues"
+  },
+  "homepage": "https://github.com/W1n-chester/goit-node.js-hw1-cli_app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "commander": "^10.0.1"
+  }
+}
